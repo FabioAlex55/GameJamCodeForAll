@@ -22,6 +22,6 @@ In CodeBreakers, players navigate a dynamic environment as barrels roll towards 
 ## How to Play
 **1 - Clone the Repository:** ``` git clone https://github.com/FabioAlex55/GameJamCodeForAll.git```
 
-**2 - Compile and Run**
+**2 - Run code_breakers.Jar**
 
 **3 - Controls:** Use the arrow keys to move your character.
