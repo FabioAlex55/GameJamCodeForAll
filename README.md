@@ -1,6 +1,6 @@
 # CodeBreakers - Java Top-Down Shooter Game
 
-![image](https://github.com/FabioAlex55/GameJamCodeForAll/assets/140112580/fe7a31ba-ac7b-4d7d-bfff-528b1cec88d6)
+![Demo GIF](https://github.com/catarinayum/GameJamCodeForAll/blob/main/codebreakers_gif.gif)
 
 ## Overview
 CodeBreakers is a Java-based top-down shooter game developed by our team in the span of 10 nights, exclusively during after-school hours as a GameJam challenge. Despite having only 3 weeks of programming experience, we embarked on this project to challenge ourselves and showcase our growing skills in Java. The game draws inspiration from the annoyance of scam advertisements, where players are tasked with shooting barrels that come hurtling towards them.
